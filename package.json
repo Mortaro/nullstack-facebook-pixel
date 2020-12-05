@@ -1,6 +1,6 @@
 {
   "name": "nullstack-facebook-pixel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nullstack wrapper for Facebook Pixel",
   "main": "src/FacebookPixel.njs",
   "author": "Mortaro",
